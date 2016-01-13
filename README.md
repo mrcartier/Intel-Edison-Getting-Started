@@ -1,5 +1,5 @@
 # Intel-Edison-Getting-Started
-Instructions on how to get the board up and running on OS X Yosemite 10.10 with the mini breakout board. There's more than enough tutorials, walkthroughs, etc. for RPi, BBB and the others but had to go to several different sites for the Edison. Also, a good deal of info that's available focuses on the Arduino expansion board.
+Instructions on how to get the board up and running on OS X Yosemite 10.10 with the mini breakout board. There's more than enough tutorials, walkthroughs, etc. for RPi, BBB and the others but had to go to several different sites for the Edison. Also, a good deal of info that's available focuses on the Arduino expansion board. According to the Intel website the Edison will run BACnet which makes it attractive for home/building automation projects.
 
 #INSTRUCTIONS
 1. Download PhoneFlashToolLite_5.3.2.0_mac64.pkg (http://downloadmirror.intel.com/25384/eng/edison-iotdk-image-280915.zip)
